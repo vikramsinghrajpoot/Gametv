@@ -1,0 +1,16 @@
+{
+  "userName": "ユーザー名",
+  "password": "パスワード",
+  "login": "ログインする",
+  "recommendedForYou": "あなたにおすすめ",
+  "tournaments": "トーナメント",
+  "played": "プレイした",
+  "won": "勝った",
+  "winning": "勝利",
+  "percentage": "パーセンテージ",
+  "userNameValidation": "許可されるミニムン3および最大10文字。",
+  "emailValidation": "許可されるミニムン3および最大10文字。",
+  "somethingWentWrong": "問題が発生しました",
+  "noMoreRecords": "これ以上のレコードはありません",
+  "invalidCredential": "ユーザー名またはパスワードが正しくありません。"
+}

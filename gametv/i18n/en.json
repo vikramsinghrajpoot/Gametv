@@ -1,0 +1,16 @@
+{
+  "userName": "User Name",
+  "password": "Password",
+  "login": "Login",
+  "recommendedForYou": "Recommended for you",
+  "tournaments": "Tournaments",
+  "played": "Played",
+  "won": "Won",
+  "winning": "Winning",
+  "percentage": "Percentage",
+  "userNameValidation": "Minimun 3 and maximum 10 charectors allowed.",
+  "emailValidation": "Minimun 3 and maximum 10 charectors allowed.",
+  "somethingWentWrong": "Something went wrongSomething went wrong",
+  "noMoreRecords": "No more records",
+  "invalidCredential": "Username or Password is not correct."
+}
