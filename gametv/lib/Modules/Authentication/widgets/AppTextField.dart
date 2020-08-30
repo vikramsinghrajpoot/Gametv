@@ -28,7 +28,7 @@ class AppTextField extends StatelessWidget {
                 : null;
           }
 
-          print("_userError: $_userError _passwordError:$_passwordError");
+          // print("_userError: $_userError _passwordError:$_passwordError");
           return Container(
             margin: EdgeInsets.all(20),
             child: TextField(
